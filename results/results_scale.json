@@ -1,0 +1,14 @@
+{
+ "e5_scale_1200": {
+  "agents": 1200,
+  "names": 7672,
+  "messages": 87678,
+  "sim_and_features_s": 38.0,
+  "linking_s": 520.9,
+  "bcubed_P": 0.921,
+  "bcubed_R": 0.8541,
+  "bcubed_F1": 0.8863,
+  "ARI": 0.8418,
+  "n_identities": 1299
+ }
+}
